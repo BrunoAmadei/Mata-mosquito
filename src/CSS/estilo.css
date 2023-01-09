@@ -1,0 +1,48 @@
+html{
+    cursor: url(../imagens/mata_mosca.png) 30 30, auto;
+}
+body{
+    background-image: url(../imagens/bg.jpg);
+    background-repeat: no-repeat top;
+    background-size: cover;
+}   
+
+/***********Tamanhos da mosca**************/
+.mosquito1{
+    width: 50px;
+    height: 50px;
+}
+.mosquito2{
+    width: 70px;
+    height: 70px;
+}
+.mosquito3{
+    width: 90px;
+    height: 90px;
+}
+/*****************Lado que irão surgir**********************/
+.ladoA{
+    transform: scaleX(1);
+}
+.ladoB{
+    transform: scaleX(-1);
+}
+/**************Cenário**************/
+.painel{
+    position: absolute;
+    width: 190px;
+    padding: 10px;
+    left: 0;
+    bottom: 0;
+    border-top: solid 1px #fff;
+    background-color: #fff;
+    opacity: 0.65; 
+}
+.vida{
+    float: left;
+}
+.cronometro{
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
