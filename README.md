@@ -1,6 +1,6 @@
 # Mata-mosquito
 Escolha uma dificuldade e tente acertar todas as moscas em determinado periodo de tempo!
-Está aplicação foi feita para aplicar o conhecimento obtido durante um curso de desenvolvimento web da Udemy.
+Esta aplicação foi feita para aplicar o conhecimento obtido durante um curso de desenvolvimento web da Udemy.
 O campo de visão da tela do usuário é lida pelo script, que cria as moscas com tamanhos e posições diferentes na tela.
 ---
 ## Tela Inicial 
