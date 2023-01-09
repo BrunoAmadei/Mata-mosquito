@@ -16,12 +16,12 @@ O campo de visão da tela do usuário é lida pelo script, que cria as moscas co
 ![image](https://user-images.githubusercontent.com/110541376/211309974-4e1d4b83-1788-4a31-b6cb-0eaeca389354.png)
 ---
 
-##🛠️Construído com:
+## 🛠️Construído com:
 * _Html_
 * _JavaScript_
 * _CSS_
 * _Bootstrap_
 ---
 
-##📄Licença
-Este projeto está sob a licença MIT License
+## 📄Licença
+Este projeto está sob a licença [_MIT License_](https://github.com/BrunoAmadei/Mata-mosquito/blob/main/LICENSE)
