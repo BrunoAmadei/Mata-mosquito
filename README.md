@@ -2,7 +2,7 @@
 Escolha uma dificuldade e tente acertar todas as moscas em determinado periodo de tempo!
 Esta aplicação foi feita para aplicar o conhecimento obtido durante um curso de desenvolvimento web da Udemy.
 O campo de visão da tela do usuário é lida pelo script, que cria as moscas com tamanhos e posições diferentes na tela.
----
+
 ## Tela Inicial 
 
 ![image](https://user-images.githubusercontent.com/110541376/211309618-599e1a8b-fe00-4603-889b-b3e4fa66162f.png)
